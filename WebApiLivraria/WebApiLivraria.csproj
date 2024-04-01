@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Amazon.Lambda.Core" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.19" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\WebApiLivraria.Repository\WebApiLivraria.Repository.csproj" />
+		<ProjectReference Include="..\WebApiLivraria.Application\WebApiLivraria.Application.csproj" />
+	</ItemGroup>
+</Project>

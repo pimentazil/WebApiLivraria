@@ -1,0 +1,12 @@
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\bin\Debug\net6.0\WebApiLivraria.Repository.deps.json
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\bin\Debug\net6.0\WebApiLivraria.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\bin\Debug\net6.0\WebApiLivraria.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\WebApiLivraria.Repository.csproj.AssemblyReference.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\WebApiLivraria.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\WebApiLivraria.Repository.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\WebApiLivraria.Repository.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\WebApiLivraria.Repository.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\WebApiLivraria.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\refint\WebApiLivraria.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\WebApiLivraria.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Repository\obj\Debug\net6.0\ref\WebApiLivraria.Repository.dll

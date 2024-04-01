@@ -1,0 +1,15 @@
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\bin\Debug\net6.0\WebApiLivraria.Application.deps.json
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\bin\Debug\net6.0\WebApiLivraria.Application.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\bin\Debug\net6.0\WebApiLivraria.Application.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\bin\Debug\net6.0\WebApiLivraria.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\bin\Debug\net6.0\WebApiLivraria.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.csproj.AssemblyReference.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.csproj.CopyComplete
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\refint\WebApiLivraria.Application.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\WebApiLivraria.Application.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\WebApiLivraria\WebApiLivraria.Application\obj\Debug\net6.0\ref\WebApiLivraria.Application.dll
